@@ -1,4 +1,4 @@
-# supabase_demo
+# whats-gram
 
 A new Flutter project.
 
